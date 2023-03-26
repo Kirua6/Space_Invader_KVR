@@ -180,7 +180,7 @@ public class Rencontre extends JPanel {
 
             inGame = false;
             timer.stop();
-            message = "Game won!";
+            message = "Vous avez gagné!";
         }
 
         // joueur
