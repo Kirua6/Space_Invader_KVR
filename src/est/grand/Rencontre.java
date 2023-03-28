@@ -27,7 +27,7 @@ public class Rencontre extends JPanel {
 
     private boolean inGame = true;
     private String explImg = "src/images/explosion.png";
-    private String message = "Game Over";
+    private String message = "Game over petit noob";
 
     private Timer timer;
 
@@ -267,7 +267,7 @@ public class Rencontre extends JPanel {
 
                 if (y > Commons.GROUND - Commons.ALIEN_HEIGHT) {
                     inGame = false;
-                    message = "Invasion!";
+                    message = ""\uD83D\uDC7E Invasion \uD83D\uDC7E"";
                 }
 
                 alien.act(direction);
