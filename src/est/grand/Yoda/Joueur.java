@@ -17,7 +17,7 @@ public class Joueur extends Papa_Noël {
 
     private void initJoueur() {
 
-        var playerImg = "src/images/player.png";
+        var playerImg = "src/images/player.jpg";
         var ii = new ImageIcon(playerImg);
 
         width = ii.getImage().getWidth(null);
