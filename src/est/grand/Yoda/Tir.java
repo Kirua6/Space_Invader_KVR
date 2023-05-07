@@ -25,3 +25,4 @@ public class Tir extends Papa_Noël {
         setY(y - V_SPACE);
     }
 }
+// KVR
