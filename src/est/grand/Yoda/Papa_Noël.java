@@ -72,3 +72,4 @@ public class Papa_Noël {
         return this.dying;
     }
 }
+// KVR
